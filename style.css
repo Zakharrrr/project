@@ -58,6 +58,7 @@ border: 1px solid grey;
 border-radius: 20px;
 box-shadow: 0px 4px 5px 0px rgba(0, 0, 0.20);
 padding: 30px;
+text-align: center;
 }
 li:hover{
     width: 1050px;
@@ -75,5 +76,8 @@ li:hover{
     .li-text{
         font-size: 24px;
     }
+.abcd{
+    font-weight: 900;
+}
 
 
